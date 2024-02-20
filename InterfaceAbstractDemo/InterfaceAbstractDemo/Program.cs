@@ -15,7 +15,7 @@ customer2.Id = 2;
 customer2.NationalityId = "123";
 customer2.FirstName = "Zeynep";
 customer2.LastName = "Aydınlı";
-customer2.DateOfBirthYear = 1997;
+customer2.DateOfBirthYear = 1999;
 
 
 BaseCustomerManager neroCustomerManager = new NeroCustomerManager();
