@@ -16,3 +16,5 @@ C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demi
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Business\bin\Debug\net8.0\Core.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Business\bin\Debug\net8.0\Core.pdb

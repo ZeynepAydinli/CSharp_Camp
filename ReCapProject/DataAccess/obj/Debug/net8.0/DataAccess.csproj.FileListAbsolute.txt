@@ -14,3 +14,5 @@ C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demi
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\DataAccess\bin\Debug\net8.0\Core.pdb

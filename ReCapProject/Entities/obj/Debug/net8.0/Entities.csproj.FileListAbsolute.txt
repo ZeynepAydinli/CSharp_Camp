@@ -10,3 +10,7 @@ C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demi
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\ReCapProject\Entities\obj\Debug\net8.0\Entities.csproj.CopyComplete

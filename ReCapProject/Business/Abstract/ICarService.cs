@@ -1,4 +1,5 @@
 ﻿using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,7 @@ public interface ICarService
     List<Car> GetCarsByColorId(int id);
     List<Car> GetByUnitPrice(decimal min, decimal max);
     void Add(Car car);
+    void Delete(Car car);
+    List<CarDetailDto> GetCarDetails();
 
 }
