@@ -1,4 +1,5 @@
-﻿using Entities.Concrete;
+﻿using Core.Utilities.Results;
+using Entities.Concrete;
 using Entities.DTOs;
 using System;
 using System.Collections.Generic;
@@ -14,4 +15,7 @@ public interface IProductService
     List<Product> GetAllByCategoryId(int id);
     List<Product> GetByUnitPrice(decimal min=0, decimal max=0);
     List<ProductDetailDto> GetProductDetails();
+    Product GetById(int productId);
+    //Tek bir product ürün döndürülür.
+    IResult Add(Product product);
 }
