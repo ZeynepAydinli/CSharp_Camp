@@ -5,33 +5,17 @@ using Entities.Concrete;
 
 CarManager carManager = new CarManager(new EfCarDal());
 
-foreach (var car in carManager.GetAll())
+var result = carManager.GetCarDetails();
+if(result.Success == true)
 {
-     Console.WriteLine(car.Description);
+    foreach (var car in result.Data)
+    {
+        Console.WriteLine(car.CarName + " " + car.BrandName + " " + car.ColorName + " " + car.DailyPrice);
+    }
 }
-Console.WriteLine("---------------------");
-foreach (var car in carManager.GetCarsByBrandId(10))
+else
 {
-    Console.WriteLine(car.Description);
-}
-Console.WriteLine("---------------------");
-foreach (var car in carManager.GetCarsByColorId(1))
-{
-    Console.WriteLine(car.Description);
-}
-Console.WriteLine("---------------------");
-foreach (var car in carManager.GetByUnitPrice(700000, 900000))
-{
-    Console.WriteLine(car.Description);
-}
-Console.WriteLine("---------------------");
-foreach (var carDto in carManager.GetCarDetails())
-{
-    Console.WriteLine("Car Name: " + carDto.CarName);
-    Console.WriteLine("Brand: " + carDto.BrandName);
-    Console.WriteLine("Color: " + carDto.ColorName);
-    Console.WriteLine("Daily Price: " + carDto.DailyPrice);
-    Console.WriteLine("---------------------");
+    Console.WriteLine(result.Message);
 }
 
 
