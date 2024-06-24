@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
@@ -46,6 +47,7 @@ public class EfEntityRepositoryBase<TEntity, TContext> : IEntityRepository<TEnti
     {
         using (TContext context = new TContext())
         {
+            // Eğer filtre null ise tüm verileri döndürür
             return filter == null
                 ? context.Set<TEntity>().ToList()
                 : context.Set<TEntity>().Where(filter).ToList();

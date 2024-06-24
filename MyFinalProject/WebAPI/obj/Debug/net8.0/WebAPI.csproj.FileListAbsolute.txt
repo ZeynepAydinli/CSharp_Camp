@@ -77,3 +77,8 @@ C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demi
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\WebAPI\bin\Debug\net8.0\FluentValidation.dll
