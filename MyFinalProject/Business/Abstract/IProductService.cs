@@ -19,6 +19,8 @@ public interface IProductService
     IDataResult<Product> GetById(int productId);
     //Tek bir product ürün döndürülür.
     IResult Add(Product product);
+    IResult Update(Product product);
+
 
     //List<Product> GetAllByCategoryId(int id);
     //List<Product> GetByUnitPrice(decimal min = 0, decimal max = 0);

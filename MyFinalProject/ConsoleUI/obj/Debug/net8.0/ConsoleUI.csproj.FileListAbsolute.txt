@@ -139,3 +139,11 @@ C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demi
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.pdb
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\obj\Debug\net8.0\ref\ConsoleUI.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\Autofac.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\zeyne\Documents\1Software\C# Yazılım Geliştirme Kampı By Engin Demirog\Homeworks\MyFinalProject\ConsoleUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

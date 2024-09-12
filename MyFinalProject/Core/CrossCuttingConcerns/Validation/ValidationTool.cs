@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Core.CrossCuttingConcerns.Validation;
 
-public static class ValidationTool
+public static class ValidationTool //ValidationAspect sınıfında kullanıldı
 {
     public static void Validate(IValidator validator, object entity)
     {

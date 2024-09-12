@@ -7,7 +7,7 @@ public class AspectInterceptorSelector : IInterceptorSelector
 {
     public IInterceptor[] SelectInterceptors(Type type, MethodInfo method, IInterceptor[] interceptors)
     {
-        var classAttributes = type.GetCustomAttributes<MethodInterceptionBaseAttribute>
+        var classAttributes = type.GetCustomAttributes<MethodInterceptionBaseAttribute> //Reflection
             (true).ToList();
         var methodAttributes = type.GetMethod(method.Name)
             .GetCustomAttributes<MethodInterceptionBaseAttribute>(true);
